@@ -2,7 +2,7 @@
 
 Its Max here! Se below to get an overview over my open source projects!
 
-Reach me at github@maax.gr or on twitter @byCaelis!
+Reach me at github@maax.gr or on twitter [@byCaelis](https://twitter.com/byCaelis)!
 
 ## Privat Projects
 
