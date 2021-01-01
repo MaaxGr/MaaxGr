@@ -2,6 +2,8 @@
 
 Its Max here! Se below to get an overview over my open source projects!
 
+Reach me at github@maax.gr or on twitter @byCaelis!
+
 ## Privat Projects
 
 * [GitlabDockerUpdater](https://github.com/MaaxGr/GitlabDockerUpdater): Kotlin terminal application to update a GitLab docker-compose container
