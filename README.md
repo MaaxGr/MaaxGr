@@ -6,6 +6,8 @@ Reach me at github@maax.gr or on twitter [@byCaelis](https://twitter.com/byCaeli
 
 ## Privat Projects
 
+* [open-source-wear-os-apps](https://github.com/MaaxGr/open-source-wear-os-apps): List of open source apps for wear os
+* [ktor-globalcalldata](https://github.com/MaaxGr/ktor-globalcalldata): KTor Feature that allows to retreive call specific request information in suspending functions
 * [GitlabDockerUpdater](https://github.com/MaaxGr/GitlabDockerUpdater): Kotlin terminal application to update a GitLab docker-compose container
 * [intellij-jsonviewer](https://github.com/MaaxGr/intellij-jsonviewer): Plugin for JetBrains IDEs to pretify JSON
 
