@@ -15,4 +15,4 @@ Reach me at github@maax.gr or on twitter [@byCaelis](https://twitter.com/byCaeli
 ## University Projects
 
 * [ITSProject](https://github.com/max-grossmann/ItsProject): Project about the vulnerabilty [CVE-2016-3714](https://www.cvedetails.com/cve/CVE-2016-3714/) of ImageMagick for the subject IT Security 
-* [GitlabManager](https://github.com/max-grossmann/GitlabManager): C# WPF Desktop Application to mangage different gitlab instances
+* [GitlabManager](https://github.com/maaxgr/GitlabManager): C# WPF Desktop Application to mangage different gitlab instances
