@@ -1,6 +1,6 @@
 # Hi there 👋
 
-It's Max here! Se below to get an overview over my open source projects!
+It's Max here! See below to get an overview over my open source projects!
 
 ## Contact me via
 * [E-Mail](mailto:github@maax.gr)
