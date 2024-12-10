@@ -2,6 +2,8 @@
 
 It's Max here! See below to get an overview over my open source projects!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaxgr&theme=tokyonight&langs_count=8)
+
 ## Contact me via
 * [E-Mail](mailto:github@maax.gr)
 * [Twitter](https://twitter.com/byCaelis)
